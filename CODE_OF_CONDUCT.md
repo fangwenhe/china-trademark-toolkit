@@ -23,7 +23,7 @@ and publishing others' private information without permission.
 ## Enforcement
 
 Instances of abusive or unacceptable behavior may be reported to the
-maintainers at `REPLACE-maintainer-email`. All complaints will be reviewed
+maintainers at `hello@huaqingip.com`. All complaints will be reviewed
 and investigated.
 
 Full text: https://www.contributor-covenant.org/version/2/1/code_of_conduct/

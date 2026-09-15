@@ -8,7 +8,7 @@
 3. [ ] 上传全部文件夹：`guides/ datasets/ templates/ tools/ LICENSE CODE_OF_CONDUCT.md README.md`。
 4. [ ] 仓库 **About（齿轮设置）**：Description 直接用 README 首句含关键词；Website 填你的落地页；**Topics 打满 20 个**（清单见 README 末尾）。
 5. [ ] 把仓库 **Pin（置顶）** 到组织主页；组织 Profile README 写一句话介绍并链接到本仓库。
-6. [ ] 全局替换占位符：搜索 `REPLACE`，把域名、邮箱、预约链接、机构英文名全部换成真实信息（**没换完不要公开**）。
+6. [x] 占位符已替换：机构名 Huaqing Innovation (Huaqing IP)、邮箱 hello@huaqingip.com、过渡官网与预约走 GitHub Pages（https://fangwenhe.github.io）；待注册 huaqingip.com 后在 Pages 绑定自定义域名并把链接平滑切换。
 
 ## 二、开启 GitHub Pages（做承接/演示站）
 1. [ ] Settings → Pages → Source 选 `main` 分支 /(root) 保存。
