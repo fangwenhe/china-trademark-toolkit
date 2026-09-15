@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>China Trademark Risk Self-Check · China Trademark Toolkit</title>
+<meta name="description" content="Free 2-minute self-check: estimate your China trademark squatting / first-to-file exposure and see what to do next.">
+<style>
+  :root{--bg:#0f1420;--card:#182031;--line:#27324a;--txt:#e8edf6;--mut:#9aa7bd;--acc:#d4a24e;--ok:#3fa66e;--warn:#e0a23c;--bad:#dd5d5d;}
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--txt);line-height:1.55;padding:24px 14px 60px}
+  .wrap{max-width:760px;margin:0 auto}
+  h1{font-size:24px;margin:0 0 6px}
+  .sub{color:var(--mut);font-size:14px;margin-bottom:22px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;margin-bottom:14px}
+  .q{display:flex;gap:12px;align-items:flex-start;padding:11px 0;border-bottom:1px solid var(--line);cursor:pointer}
+  .q:last-of-type{border-bottom:none}
+  .q input{margin-top:4px;width:18px;height:18px;flex:0 0 auto;accent-color:var(--acc)}
+  .q span{font-size:15px}
+  .q small{display:block;color:var(--mut);font-size:12.5px;margin-top:2px}
+  .meter{height:14px;border-radius:8px;background:#0c111c;overflow:hidden;border:1px solid var(--line)}
+  .bar{height:100%;width:0;transition:width .3s ease,background .3s}
+  .score-row{display:flex;justify-content:space-between;align-items:baseline;margin:6px 0 10px}
+  .score{font-size:34px;font-weight:700}
+  .lvl{font-weight:700;font-size:15px}
+  .advice{font-size:14px;color:var(--mut)}
+  .advice b{color:var(--txt)}
+  .cta{display:inline-block;margin-top:12px;background:var(--acc);color:#1a1407;text-decoration:none;font-weight:700;padding:10px 16px;border-radius:9px;font-size:14px}
+  .reset{background:none;border:1px solid var(--line);color:var(--mut);border-radius:9px;padding:9px 14px;font-size:13px;cursor:pointer;margin-left:8px}
+  .disc{font-size:12px;color:var(--mut);margin-top:18px}
+  @media(max-width:520px){h1{font-size:20px}.q span{font-size:14px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>China Trademark Risk Self-Check</h1>
+  <div class="sub">Tick every statement that is TRUE for your brand right now. Your result updates instantly. No data leaves this page.</div>
+
+  <div class="card">
+    <div id="questions"></div>
+  </div>
+
+  <div class="card">
+    <div class="score-row">
+      <div class="score" id="scoreNum">0</div>
+      <div class="lvl" id="level">—</div>
+    </div>
+    <div class="meter"><div class="bar" id="bar"></div></div>
+    <div class="advice" id="advice">Answer the questions above to estimate your first-to-file / squatting exposure in mainland China.</div>
+    <div style="margin-top:14px">
+      <a class="cta" id="cta" href="https://REPLACE-your-domain.com" target="_blank" rel="noopener">Ask a CNIPA-recorded Chinese agent</a>
+      <button class="reset" id="reset" type="button">Reset</button>
+    </div>
+    <div class="disc">General self-assessment only, not legal advice. Replace the REPLACE link with your real site before publishing.</div>
+  </div>
+</div>
+
+<script>
+var QS = [
+  {t:"We do NOT yet hold a Chinese trademark registration (CNIPA).", h:"China is first-to-file: no filing = no ownership, even after years of foreign use."},
+  {t:"We source from, manufacture in, or have a distributor/OEM factory in China.", h:"Insiders are a common source of pre-emptive filings."},
+  {t:"We plan to enter China or sell on Tmall / JD / Douyin / TikTok Shop within 12 months.", h:"Marketplaces require a Chinese registration or authorized filing to open an official store."},
+  {t:"We have NOT chosen or registered a Chinese-character version of our brand.", h:"Chinese customers search and speak the Chinese name; squatters file it first."},
+  {t:"Our coverage misses Class 35 (retail/online marketplace services) or related classes.", h:"Gaps in class coverage are routinely exploited to block stores."},
+  {t:"We have never run a Chinese-character / pinyin similarity search.", h:"Exact-match searches miss similar and transliterated filings."},
+  {t:"We found an identical/similar Chinese application or registration we do not control.", h:"You may face a narrow opposition window or need invalidation."},
+  {t:"We rely on being 'first to use' or on our foreign/global reputation.", h:"Well-known-mark protection is narrow, slow and expensive to prove in China."},
+  {t:"We received a CNIPA refusal / provisional refusal on a Madrid designation of China.", h:"A Chinese agent must respond in Chinese within the stated deadline (refusal review: 15 days)."},
+  {t:"We keep no organized evidence of use/fame relevant to China.", h:"Use evidence is decisive in review, opposition and non-use disputes."}
+];
+var box=document.getElementById('questions');
+QS.forEach(function(q,i){
+  var lab=document.createElement('label');lab.className='q';lab.htmlFor='q'+i;
+  lab.innerHTML='<input type="checkbox" id="q'+i+'"><span>'+q.t+'<small>'+q.h+'</small></span>';
+  box.appendChild(lab);
+});
+function render(){
+  var n=0;QS.forEach(function(q,i){if(document.getElementById('q'+i).checked)n++;});
+  var pct=Math.round(n/QS.length*100);
+  document.getElementById('scoreNum').textContent=pct;
+  var bar=document.getElementById('bar');bar.style.width=pct+'%';
+  var lvl=document.getElementById('level'),adv=document.getElementById('advice');
+  if(n===0){lvl.textContent='No answers yet';lvl.style.color='#9aa7bd';bar.style.background='#3a465f';
+    adv.innerHTML='Tick the statements that apply.';}
+  else if(pct<=30){lvl.textContent='LOW-MODERATE';lvl.style.color='var(--ok)';bar.style.background='var(--ok)';
+    adv.innerHTML='<b>Some gaps remain.</b> Close them early while it is cheap: file core classes + Class 35 and the Chinese name, and set a CNIPA gazette monitor.';}
+  else if(pct<=60){lvl.textContent='MODERATE-HIGH';lvl.style.color='var(--warn)';bar.style.background='var(--warn)';
+    adv.innerHTML='<b>Meaningful first-to-file exposure.</b> Run a clearance search now, file defensively across core+related classes, and check whether any conflicting mark is in its opposition window.';}
+  else{lvl.textContent='HIGH';lvl.style.color='var(--bad)';bar.style.background='var(--bad)';
+    adv.innerHTML='<b>Act promptly.</b> Your brand is exposed to squatting or an active China dispute. Instruct a CNIPA-recorded agent to clear, file and (if needed) oppose/invalidate before deadlines lapse.';}
+}
+box.addEventListener('change',render);
+document.getElementById('reset').addEventListener('click',function(){QS.forEach(function(q,i){document.getElementById('q'+i).checked=false;});render();});
+render();
+</script>
+</body>
+</html>
