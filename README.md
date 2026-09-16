@@ -111,7 +111,7 @@ This toolkit is maintained by **Huaqing Innovation (Huaqing IP / 华青创新)**
 
 - 🌐 Website / rate card: **[Huaqing IP](https://fangwenhe.github.io)**
 - ✉️ Email: **hello@huaqingip.com**
-- 📅 Book a consultation: **[Contact page](https://fangwenhe.github.io/#contact)**
+- 📅 Book a free 30-min consultation: **[calendly.com/huaqingip/30min](https://calendly.com/huaqingip/30min)**
 - 💬 Submit an inquiry: **[GitHub Issues](https://github.com/fangwenhe/china-trademark-toolkit/issues/new)**
 - For overseas IP firms: ask for our **foreign-associate (correspondent) wholesale rate schedule**.
 
