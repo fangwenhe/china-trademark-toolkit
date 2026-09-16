@@ -110,7 +110,7 @@ You generally have **15 days** from receipt to request a review of adjudication 
 This toolkit is maintained by **Huaqing Innovation (Huaqing IP / 华青创新)**, a trademark agency recorded with CNIPA. We help foreign applicants and overseas law firms with China national filings, Madrid China-phase responses, refusal review, opposition/invalidation, renewal, Chinese-name strategy, and platform IP enforcement (Tmall / Douyin / Pinduoduo / 1688).
 
 - 🌐 Website / rate card: **[Huaqing IP](https://huaqingip.com)**
-- ✉️ Email: **hello@huaqingip.com**
+- ✉️ Email: **ip@huaqingip.com**
 - 📅 Book a free 30-min consultation: **[calendly.com/huaqingip/30min](https://calendly.com/huaqingip/30min)**
 - 💬 Submit an inquiry: **[GitHub Issues](https://github.com/fangwenhe/china-trademark-toolkit/issues/new)**
 - For overseas IP firms: ask for our **foreign-associate (correspondent) wholesale rate schedule**.
