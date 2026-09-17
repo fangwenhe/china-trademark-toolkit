@@ -99,6 +99,10 @@ Pick your classes and items to instantly estimate **CNIPA official fees (CNY + U
   <img src="docs/screenshots/fee-calculator-desktop.jpg" alt="China Trademark Fee Calculator — official fee, agency fee range and total budget in USD" width="92%">
 </p>
 
+### More free browser tools
+
+**[▶ Open the full China IP toolbox](https://huaqingip.com/china-ip-tools/)** — also includes the **Nice Class Picker (45 classes, EN–中文)** and the **Filing Timeline & Deadline Calculator**. No sign-up, runs in your browser.
+
 ## 📚 Explore the full China IP toolkit
 
 | Repository | What it covers |
