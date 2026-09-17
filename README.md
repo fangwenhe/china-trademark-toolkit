@@ -73,6 +73,31 @@
 3. Use the [`templates/required-documents-checklist.md`](templates/required-documents-checklist.md) to gather paperwork.
 4. Pick classes from [`datasets/nice-classification-45-classes-en-zh.md`](datasets/nice-classification-45-classes-en-zh.md).
 
+## 🩺 Free tool: China Trademark Risk Self-Check
+
+A zero-dependency, single-file tool — **runs entirely in your browser, no sign-up, no data leaves your page**. Answer 10 yes/no questions and instantly see your first-to-file / squatting exposure with concrete next steps.
+
+[**▶ Open the self-check now**](tools/trademark-risk-self-check.html)
+
+<p align="center">
+  <img src="docs/screenshots/risk-check-desktop.jpg" alt="China Trademark Risk Self-Check tool — desktop view showing risk score and advice" width="92%">
+  <br><sub>Desktop · scores your exposure and tells you exactly what to do next</sub>
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/risk-check-mobile.jpg" alt="China Trademark Risk Self-Check tool — mobile view" width="34%">
+  <br><sub>Mobile · works offline once downloaded</sub>
+</p>
+
+## 📚 Explore the full China IP toolkit
+
+| Repository | What it covers |
+|---|---|
+| **[china-trademark-toolkit](https://github.com/fangwenhe/china-trademark-toolkit)** | Registration, search, fees, classes, refusal response, risk tool (you are here) |
+| **[china-ip-enforcement](https://github.com/fangwenhe/china-ip-enforcement)** | Opposition, invalidation, 撤三, platform takedowns, Amazon Brand Registry China |
+| **[china-copyright-registration](https://github.com/fangwenhe/china-copyright-registration)** | Works & software copyright (软著) registration, checklists, POA template |
+| **[awesome-china-ip](https://github.com/fangwenhe/awesome-china-ip)** | Curated hub: official portals, search tools, glossary, machine-readable datasets |
+
 ## ❓ Frequently asked questions (FAQ)
 
 **1. Can a foreigner or foreign company own a Chinese trademark without a Chinese company?**
