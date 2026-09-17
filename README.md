@@ -41,7 +41,7 @@
 | [`guides/`](guides/) | Plain-English guides: first-to-file risk, the full registration workflow, and responding to refusals / office actions / oppositions |
 | [`datasets/`](datasets/) | Bilingual (EN–中文) Nice Classification 45-class headings, official fees and an end-to-end timeline |
 | [`templates/`](templates/) | Required-documents checklist + Power of Attorney / notarization & legalization notes |
-| [`tools/`](tools/) | A zero-dependency **China Trademark Risk Self-Check** you can open in any browser |
+| [`tools/`](tools/) | Zero-dependency browser tools: **China Trademark Risk Self-Check** + **China Trademark Fee Calculator** |
 
 ## ⏱️ China trademarks at a glance
 
@@ -87,6 +87,16 @@ A zero-dependency, single-file tool — **runs entirely in your browser, no sign
 <p align="center">
   <img src="docs/screenshots/risk-check-mobile.jpg" alt="China Trademark Risk Self-Check tool — mobile view" width="34%">
   <br><sub>Mobile · works offline once downloaded</sub>
+</p>
+
+## 💰 Free tool: China Trademark Fee Calculator
+
+Pick your classes and items to instantly estimate **CNIPA official fees (CNY + USD)**, typical foreign-applicant agency fees and your all-in budget — including extra items beyond the 10 included per class and foreign paperwork.
+
+[**▶ Open the fee calculator**](tools/trademark-fee-calculator.html)
+
+<p align="center">
+  <img src="docs/screenshots/fee-calculator-desktop.jpg" alt="China Trademark Fee Calculator — official fee, agency fee range and total budget in USD" width="92%">
 </p>
 
 ## 📚 Explore the full China IP toolkit

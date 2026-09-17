@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>China Trademark Fee Calculator · China Trademark Toolkit</title>
+<meta name="description" content="Free calculator: estimate CNIPA official trademark filing fees (CNY + USD), typical agency fees and total budget for registering a trademark in China.">
+<style>
+  :root{--bg:#0f1420;--card:#182031;--line:#27324a;--txt:#e8edf6;--mut:#9aa7bd;--acc:#d4a24e;--ok:#3fa66e;--warn:#e0a23c;--bad:#dd5d5d;}
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--txt);line-height:1.55;padding:24px 14px 60px}
+  .wrap{max-width:780px;margin:0 auto}
+  h1{font-size:24px;margin:0 0 6px}
+  .sub{color:var(--mut);font-size:14px;margin-bottom:22px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px;margin-bottom:14px}
+  label{display:block;font-size:14px;font-weight:600;margin:14px 0 6px}
+  label:first-child{margin-top:0}
+  .hint{color:var(--mut);font-weight:400;font-size:12.5px}
+  .row{display:flex;gap:10px;align-items:center}
+  input[type=number]{width:110px;background:#0c111c;border:1px solid var(--line);color:var(--txt);border-radius:9px;padding:10px 12px;font-size:16px}
+  select{background:#0c111c;border:1px solid var(--line);color:var(--txt);border-radius:9px;padding:10px 12px;font-size:14px}
+  .stepper{display:inline-flex;align-items:center;gap:0}
+  .stepper button{width:40px;height:42px;background:#0c111c;border:1px solid var(--line);color:var(--acc);font-size:20px;border-radius:9px;cursor:pointer}
+  .stepper input{text-align:center;border-radius:0;border-left:none;border-right:none;width:80px}
+  .stepper button:first-child{border-radius:9px 0 0 9px}
+  .stepper button:last-child{border-radius:0 9px 9px 0}
+  table.calc{width:100%;border-collapse:collapse;font-size:14.5px;margin-top:6px}
+  table.calc td{padding:9px 4px;border-bottom:1px solid var(--line)}
+  table.calc td:last-child{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+  .total td{border-bottom:none;font-weight:700;font-size:16px;padding-top:14px}
+  .total .big{color:var(--acc);font-size:22px}
+  .muted{color:var(--mut)}
+  .range{color:var(--ok);font-weight:700}
+  .note{font-size:12.5px;color:var(--mut);margin-top:12px}
+  .cta{display:inline-block;margin-top:14px;background:var(--acc);color:#1a1407;text-decoration:none;font-weight:700;padding:11px 18px;border-radius:9px;font-size:14px}
+  .ghost{display:inline-block;margin-top:14px;margin-left:8px;border:1px solid var(--line);color:var(--mut);text-decoration:none;padding:10px 16px;border-radius:9px;font-size:13px}
+  .disc{font-size:12px;color:var(--mut);margin-top:18px}
+  .seg{display:inline-flex;border:1px solid var(--line);border-radius:9px;overflow:hidden}
+  .seg button{background:#0c111c;border:none;color:var(--mut);padding:10px 16px;font-size:14px;cursor:pointer}
+  .seg button.on{background:var(--acc);color:#1a1407;font-weight:700}
+  @media(max-width:480px){.row{flex-wrap:wrap}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>China Trademark Fee Calculator</h1>
+  <div class="sub">Estimate CNIPA official fees, typical agency fees and total budget for a new China (CNIPA) trademark application. Planning figures only — confirm live rates before filing.</div>
+
+  <div class="card">
+    <label>Filing channel</label>
+    <div class="seg" id="channel">
+      <button data-v="online" class="on">Online (recommended)</button>
+      <button data-v="paper">Paper</button>
+    </div>
+
+    <label>Number of Nice classes <span class="hint">(core + defensive classes; 45 total)</span></label>
+    <div class="stepper">
+      <button id="cMinus" type="button">−</button>
+      <input type="number" id="classes" value="1" min="1" max="45">
+      <button id="cPlus" type="button">+</button>
+    </div>
+
+    <label>Average goods/services items per class <span class="hint">(first 10 included; extra items are charged per item)</span></label>
+    <div class="stepper">
+      <button id="iMinus" type="button">−</button>
+      <input type="number" id="items" value="10" min="1" max="50">
+      <button id="iPlus" type="button">+</button>
+    </div>
+
+    <label>Foreign applicant paperwork <span class="hint">(translation; notarization/legalization varies by case)</span></label>
+    <select id="paperwork">
+      <option value="0">Already have Chinese-translated, legalized documents</option>
+      <option value="60" selected>Need translation + basic POA handling (~USD 60)</option>
+      <option value="200">Need full notarization + consular legalization/apostille (~USD 60–200)</option>
+    </select>
+  </div>
+
+  <div class="card">
+    <table class="calc">
+      <tr><td>CNIPA official fee</td><td id="officialCny">—</td></tr>
+      <tr><td class="muted">Official fee (≈ USD, ~7.2 CNY/USD)</td><td id="officialUsd" class="muted">—</td></tr>
+      <tr><td>Foreign-applicant paperwork</td><td id="paperUsd">—</td></tr>
+      <tr><td>Typical China agency service fee <span class="hint">(per class, market range)</span></td><td id="agencyUsd" class="range">—</td></tr>
+      <tr class="total"><td>Estimated total budget</td><td id="total" class="big">—</td></tr>
+    </table>
+    <div class="note" id="timeline"></div>
+    <a class="cta" href="https://calendly.com/huaqingip/30min" target="_blank" rel="noopener">Get an exact quote — free 30-min consult</a>
+    <a class="ghost" href="https://github.com/fangwenhe/china-trademark-toolkit" target="_blank" rel="noopener">View the toolkit</a>
+    <div class="disc">General planning tool, not legal advice. Official fees follow the CNIPA schedule and may change; agency fees vary by agent, class complexity and response work. Madrid designations of China use a separate WIPO fee schedule. Maintained by Huaqing Innovation (Huaqing IP), a CNIPA-recorded agency.</div>
+  </div>
+</div>
+<script>
+(function(){
+  var channel='online';
+  var $=function(id){return document.getElementById(id)};
+  function fmt(n){return n.toLocaleString('en-US')}
+  document.querySelectorAll('#channel button').forEach(function(b){
+    b.addEventListener('click',function(){
+      document.querySelectorAll('#channel button').forEach(function(x){x.classList.remove('on')});
+      b.classList.add('on'); channel=b.dataset.v; render();
+    });
+  });
+  function bindStepper(id,minusId,plusId,min,max){
+    var inp=$(id);
+    $(minusId).addEventListener('click',function(){inp.value=Math.max(min,(+inp.value||min)-1);render()});
+    $(plusId).addEventListener('click',function(){inp.value=Math.min(max,(+inp.value||min)+1);render()});
+    inp.addEventListener('input',render);
+  }
+  bindStepper('classes','cMinus','cPlus',1,45); bindStepper('items','iMinus','iPlus',1,50);
+  $('paperwork').addEventListener('change',render);
+  function render(){
+    var classes=Math.max(1,Math.min(45,+ $('classes').value||1));
+    var items=Math.max(1,Math.min(50,+ $('items').value||10));
+    var base=channel==='online'?270:300;       // CNY per class, first 10 items
+    var extra=channel==='online'?27:30;        // CNY per item beyond 10
+    var extraItems=Math.max(0,items-10);
+    var officialCny=classes*(base+extraItems*extra);
+    var officialUsd=officialCny/7.2;
+    var paper=+$('paperwork').value;
+    var agLow=classes*80, agHigh=classes*200;  // typical foreign-filing agency range USD/class
+    var totalLow=officialUsd+paper+agLow, totalHigh=officialUsd+paper+agHigh;
+    $('officialCny').textContent='CNY '+fmt(officialCny);
+    $('officialUsd').textContent='≈ USD '+fmt(Math.round(officialUsd));
+    $('paperUsd').textContent=paper===0?'USD 0':'≈ USD '+fmt(paper);
+    $('agencyUsd').textContent='USD '+fmt(agLow)+' – '+fmt(agHigh);
+    $('total').textContent='USD '+fmt(Math.round(totalLow))+' – '+fmt(Math.round(totalHigh));
+    $('timeline').textContent='Smooth national filing typically takes 6–9 months (acceptance ~1 month → examination → 3-month publication/opposition → registration). Protection lasts 10 years, renewable.';
+  }
+  render();
+})();
+</script>
+</body>
+</html>
