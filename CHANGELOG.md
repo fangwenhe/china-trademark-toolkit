@@ -2,6 +2,19 @@
 
 All notable changes to this toolkit are documented here. Dates use ISO format (YYYY-MM-DD), Asia/Shanghai.
 
+## 2026-09-21
+
+### Added
+- New guide **`guides/04-china-trademark-law-2026-amendment.md`** — the revised Trademark Law adopted 26 June 2026 and effective **1 January 2027** (first full revision since 1983; 9 chapters / 87 articles). Covers the five changes that matter to foreign applicants: opposition window **3 → 2 months**, new ~5-year use declaration, refusal of no-use-intent/hoarding filings, CNY 100,000 bad-faith fines, and stronger well-known-mark protection, with a 2026→2027 transition checklist and official sources.
+- README **FAQ #11** on the 2026 amendment, and a Guide 04 link in "What's inside".
+
+### Changed
+- `datasets/official-fees-and-timeline.md`: filled in exact online/paper official fees (renewal 450/500, opposition 450/500, refusal review & invalidation 675/750, non-use cancellation 450/500) confirmed against 2026 CNIPA Q&A; flagged the opposition window as 3 months now / 2 months from 1 Jan 2027; added the new ~5-year use declaration row.
+- `datasets/nice-classification-45-classes-en-zh.md`: aligned headings note to the **Nice Classification 13th edition (2026 text)**, applied by CNIPA since 1 January 2026.
+
+### Notes
+- No change to core filing fees this week (online CNY 270/class, first 10 items; CNY 27 per extra item). Figures re-verified against CNIPA's English fee page and 2026 official replies.
+
 ## 2026-09-15
 
 ### Added

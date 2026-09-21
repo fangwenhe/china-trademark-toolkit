@@ -4,16 +4,19 @@
 
 ## 1. Core official fees (national filing)
 
-| Item | Official fee (online) | Notes |
+| Item | Official fee (online / paper) | Notes |
 |---|---|---|
-| Filing, one class, first 10 goods/services items | **CNY 270 / class (~USD 37)** | Paper filing is higher (~CNY 300) |
-| Each item beyond 10 in the same class | Extra per item | Keep specs tight to control cost |
+| Filing, one class, first 10 goods/services items | **CNY 270 / CNY 300 per class (~USD 37)** | Online is the standard |
+| Each item beyond 10 in the same class | CNY 27 / CNY 30 per item | Keep specs tight to control cost |
 | Issuance/registration | Included in the process | Electronic certificate standard |
-| Renewal (per class, every 10 years) | See current schedule | Window: 12 months before expiry + 6-month grace (surcharge in grace) |
+| Renewal (per class, every 10 years) | **CNY 450 / CNY 500** | Window: 12 months before expiry + 6-month grace (surcharge in grace) |
+| Opposition (异议) | **CNY 450 / CNY 500** | Current window **3 months**; **shortens to 2 months from 1 Jan 2027** under the amended Law |
+| Refusal review (驳回复审) | **CNY 675 / CNY 750** | Request within **15 days** of refusal |
+| Invalidation (无效宣告) | **CNY 675 / CNY 750** | Post-registration dispute |
+| Non-use cancellation (撤三) | **CNY 450 / CNY 500** | After 3 consecutive years of non-use |
 | Recordal of change / assignment / license | Per-recordal fee | Name/address change, transfer, license recordal |
-| Opposition | Per-class fee | Filed within the 3-month publication window |
-| Review of adjudication (refusal review 驳回复审) | Per-class fee | Request within **15 days** of refusal |
-| Invalidation / non-use cancellation | Per-class fee | Dispute-stage proceedings |
+
+> Fees confirmed against CNIPA's published schedule and 2026 Q&A replies (online vs paper). **New 2026 Trademark Law (effective 1 Jan 2027):** opposition window 3 → 2 months, and a new ~5-year use declaration is added. See [`guides/04-china-trademark-law-2026-amendment.md`](../guides/04-china-trademark-law-2026-amendment.md).
 
 > A foreign applicant additionally incurs **translation** and, depending on the situation, **notarization/legalization (apostille/consular)** costs and the **agent's service fee** — the official fee is only the floor.
 
@@ -34,9 +37,10 @@
 | Proceeding | Deadline to initiate | Decision period (typical) |
 |---|---|---|
 | Refusal review (驳回复审) | Within **15 days** of refusal | ~9 months (+ up to 3 extension) |
-| Opposition (异议) | Within **3-month** publication window | ~12 months (+ up to 6) |
+| Opposition (异议) | Within **3-month** publication window (**→ 2 months from 1 Jan 2027**) | ~12 months (+ up to 6) |
 | Invalidation (无效宣告) | After registration | ~9–12 months |
 | Non-use cancellation (撤三) | Anytime after 3 years of non-use | ~9 months |
+| Use declaration (new, from 1 Jan 2027) | Around the **5th year** after registration | Affirmative filing of use evidence under the amended Law |
 
 ## 4. Madrid route timing
 

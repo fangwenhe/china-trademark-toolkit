@@ -1,6 +1,6 @@
 # Nice Classification — 45 Classes (English headings + 中文类名)
 
-> Class **headings only**, current Nice edition. These are the broad class titles for choosing classes quickly. The **exact goods/services items must be selected from CNIPA's Chinese standard list (类似商品和服务区分表)** — USPTO/EUIPO wording is not accepted as-is. Class 35 and Class 45 are highlighted because they matter most to e-commerce sellers and IP services.
+> Class **headings only**, aligned to the **Nice Classification 13th edition (2026 text)**, which CNIPA has applied since **1 January 2026** for applications filed on or after that date (applications filed earlier follow the edition then in force). These are the broad class titles for choosing classes quickly. The **exact goods/services items must be selected from CNIPA's Chinese standard list (类似商品和服务区分表)** — USPTO/EUIPO wording is not accepted as-is. Class 35 and Class 45 are highlighted because they matter most to e-commerce sellers and IP services.
 
 | Class | English heading (abridged) | 中文类名 |
 |---|---|---|
