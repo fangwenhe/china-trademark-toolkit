@@ -2,6 +2,15 @@
 
 All notable changes to this toolkit are documented here. Dates use ISO format (YYYY-MM-DD), Asia/Shanghai.
 
+## 2026-09-28
+
+### Added
+- New guide **`guides/05-2027-trademark-law-transition-rules.md`** — how the 2026→2027 switchover is handled, based on the SPC's two **draft** interpretations released for public comment on 14 September 2026 (comments close 28 October 2026). Key rule: the opposition window is fixed by the **preliminary-approval publication date** — **3 months** for marks published before 1 Jan 2027, **2 months** from that date; whether an invalidation is time-barred uses the law in force on the registration publication date; court cases not yet concluded at the switchover are assessed under the new provisions. Also covers use-recognition (minor differences still count; mere assignment/listing does not) and copyright-in-a-logo evidence.
+- README **FAQ #12** on whether a mark published around the switchover has a 3- or 2-month opposition window, plus a Guide 05 link in the contents.
+
+### Official figures
+- Confirmed **no change** to official fees: the latest CNIPA Q&A (7 July 2026) still states CNY **270 online / 300 paper** per class (first 10 items; CNY 27/30 per extra item).
+
 ## 2026-09-21
 
 ### Added

@@ -38,7 +38,7 @@
 
 | Folder | Contents |
 |---|---|
-| [`guides/`](guides/) | Plain-English guides: first-to-file risk, the full registration workflow, responding to refusals / oppositions, and the **[2026 Trademark Law amendment (effective 1 Jan 2027)](guides/04-china-trademark-law-2026-amendment.md)** |
+| [`guides/`](guides/) | Plain-English guides: first-to-file risk, the full registration workflow, responding to refusals / oppositions, the **[2026 Trademark Law amendment (effective 1 Jan 2027)](guides/04-china-trademark-law-2026-amendment.md)** and the **[2026→2027 transition rules](guides/05-2027-trademark-law-transition-rules.md)** |
 | [`datasets/`](datasets/) | Bilingual (EN–中文) Nice Classification 45-class headings, official fees and an end-to-end timeline |
 | [`templates/`](templates/) | Required-documents checklist + Power of Attorney / notarization & legalization notes |
 | [`tools/`](tools/) | Zero-dependency browser tools: **China Trademark Risk Self-Check** + **China Trademark Fee Calculator** |
@@ -146,6 +146,9 @@ You generally have **15 days** from receipt to request a review of adjudication 
 
 **11. What changes under the amended Trademark Law that takes effect 1 January 2027?**
 The revised Law (adopted 26 June 2026, the first full revision since 1983) **shortens the opposition window from 3 months to 2 months**, adds an affirmative **use declaration around the 5th year** after registration (alongside the existing 3-year non-use cancellation), allows refusal of applications with **no genuine use intent that clearly exceed normal business needs**, fines bad-faith filing up to CNY 100,000, and strengthens well-known-mark protection. Marks registered before the effective date remain valid. Until 31 December 2026 the current 3-month window still applies. See **[Guide 04 →](guides/04-china-trademark-law-2026-amendment.md)**.
+
+**12. My mark is published around the January 2027 switchover — is my opposition window 3 months or 2 months?**
+Under the SPC's **draft** temporal-application rules (published 14 September 2026, open for comment until 28 October 2026), the period depends on the **preliminary-approval publication date**: marks published **before 1 January 2027** keep the **three-month** window under the 2019 Law; marks published **on or after 1 January 2027** have the new **two-month** window. Whether an invalidation is time-barred is judged by the law in force on the registration publication date, and court cases not yet concluded at the switchover are assessed under the new provisions. These rules remain in draft and may change. See **[Guide 05 →](guides/05-2027-trademark-law-transition-rules.md)**.
 
 ## 🤝 Need hands-on help from a CNIPA-recorded Chinese agency?
 
