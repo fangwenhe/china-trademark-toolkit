@@ -9,7 +9,7 @@
 | Filing, one class, first 10 goods/services items | **CNY 270 / CNY 300 per class (~USD 37)** | Online is the standard |
 | Each item beyond 10 in the same class | CNY 27 / CNY 30 per item | Keep specs tight to control cost |
 | Issuance/registration | Included in the process | Electronic certificate standard |
-| Renewal (per class, every 10 years) | **CNY 450 / CNY 500** | Window: 12 months before expiry + 6-month grace (surcharge in grace) |
+| Renewal (per class, every 10 years) | **CNY 450 / CNY 500** | Window: 12 months before expiry + 6-month grace; **late surcharge in grace CNY 225 / CNY 250** (online / paper). After grace the mark is cancelled and cannot be reinstated — a fresh application is needed. Charged per class, not per item; the new 10-year term runs from the day after the previous term expired, even when filed in grace. |
 | Opposition (异议) | **CNY 450 / CNY 500** | Current window **3 months**; **shortens to 2 months from 1 Jan 2027** under the amended Law |
 | Refusal review (驳回复审) | **CNY 675 / CNY 750** | Request within **15 days** of refusal |
 | Invalidation (无效宣告) | **CNY 675 / CNY 750** | Post-registration dispute |

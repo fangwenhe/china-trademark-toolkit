@@ -2,6 +2,15 @@
 
 All notable changes to this toolkit are documented here. Dates use ISO format (YYYY-MM-DD), Asia/Shanghai.
 
+## 2026-10-05
+
+### Added
+- README **FAQ #13** on what happens when the renewal deadline is missed: the 12-month pre-expiry window, the **6-month grace period** with its late surcharge, and cancellation (no reinstatement) once grace ends; clarifies renewal is charged per class and the new term runs from the day after the original expiry regardless of when filed.
+- Specified the renewal **late surcharge in grace — CNY 225 online / 250 paper per class** — in `datasets/official-fees-and-timeline.md` (previously only noted as "surcharge"), sourced from CNIPA Q&A replies.
+
+### Official figures
+- Checked CNIPA/China Trademark Office notices for the past week: **no change** to fees or procedural deadlines. Latest CNIPA Q&A (7 July 2026) still states filing fee **CNY 270 online / 300 paper** per class (first 10 items; CNY 27/30 each extra); renewal **CNY 450 / 500** with the grace surcharge above. The amended Trademark Law still takes effect **1 January 2027**.
+
 ## 2026-09-28
 
 ### Added
