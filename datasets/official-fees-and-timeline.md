@@ -16,7 +16,7 @@
 | Non-use cancellation (撤三) | **CNY 450 / CNY 500** | After 3 consecutive years of non-use |
 | Recordal of change / assignment / license | Per-recordal fee | Name/address change, transfer, license recordal |
 
-> Fees confirmed against CNIPA's published schedule and 2026 Q&A replies (online vs paper). **New 2026 Trademark Law (effective 1 Jan 2027):** opposition window 3 → 2 months, and a new ~5-year use declaration is added. See [`guides/04-china-trademark-law-2026-amendment.md`](../guides/04-china-trademark-law-2026-amendment.md).
+> Fees confirmed against CNIPA's published schedule and 2026 Q&A replies (online vs paper). **New 2026 Trademark Law (effective 1 Jan 2027):** opposition window 3 → 2 months. A draft five-year post-registration "statement of use" was **not adopted** in the final Law; instead CNIPA may revoke 3-year-unused/generic marks ex officio (Art. 57) and online use counts as genuine use (Art. 2). See [`guides/04-china-trademark-law-2026-amendment.md`](../guides/04-china-trademark-law-2026-amendment.md).
 
 > A foreign applicant additionally incurs **translation** and, depending on the situation, **notarization/legalization (apostille/consular)** costs and the **agent's service fee** — the official fee is only the floor.
 
@@ -39,8 +39,8 @@
 | Refusal review (驳回复审) | Within **15 days** of refusal | ~9 months (+ up to 3 extension) |
 | Opposition (异议) | Within **3-month** publication window (**→ 2 months from 1 Jan 2027**) | ~12 months (+ up to 6) |
 | Invalidation (无效宣告) | After registration | ~9–12 months |
-| Non-use cancellation (撤三) | Anytime after 3 years of non-use | ~9 months |
-| Use declaration (new, from 1 Jan 2027) | Around the **5th year** after registration | Affirmative filing of use evidence under the amended Law |
+| Non-use cancellation (撤三) | Anytime after 3 years of non-use | ~9 months; from 1 Jan 2027 CNIPA may also revoke ex officio (Art. 57) |
+| ~~Five-year statement of use~~ | **Not adopted** — a draft proposal was dropped from the final Law | No affirmative five-year filing; keep use evidence for the 3-year route instead |
 
 ## 4. Madrid route timing
 

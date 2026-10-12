@@ -15,10 +15,13 @@ Under the current Law, a preliminarily-approved mark is published for a **3-mont
 
 **Action:** speed up trademark watching. A monthly check is no longer enough in 2027 — decisions to oppose must be made within weeks of publication.
 
-### 2. New 5-year use declaration (on top of the existing 3-year cancellation)
-The Law retains the existing rule that a mark unused for **3 consecutive years** can be cancelled by any third party (撤三), and **adds an affirmative duty**: around the fifth year after registration the rights holder must **submit evidence of use**. A registration can no longer be treated as a "file and forget" asset.
+### 2. No five-year "statement of use" — but stronger use scrutiny and ex officio revocation
+An earlier **draft** would have imposed a periodic, affirmative post-registration **statement of use (around the fifth year)**. That proposal was **not adopted in the final Law** — there is no mandatory five-year filing. What the final Law does instead:
+- it **retains** the rule that any party may seek cancellation of a mark unused for **3 consecutive years** (撤三, Article 57);
+- it **empowers CNIPA to cancel on its own initiative (ex officio)** marks that have become generic **or** have not been used for three consecutive years (Article 57), supplementing the third-party route;
+- it expressly confirms that **use over the internet / information networks counts as genuine use** (Article 2), covering e-commerce, digital advertising and social-media use.
 
-**Action:** build a dated China-use evidence file now — Chinese-language sales pages, Tmall/JD/Douyin listings, invoices, advertising, packaging photos, customs records.
+**Action:** there is no five-year form to file, but a registration is still not "file and forget" — build a dated China-use evidence file now (Chinese-language sales pages, Tmall/JD/Douyin listings, invoices, advertising, packaging photos, customs records), including online use, to defeat a third-party cancellation or an ex officio review.
 
 ### 3. No-use-intent filings can be refused; bad-faith filing is fined
 Applications that are **not for the purpose of use and clearly exceed normal production/business needs** fall within the scope of refusal. Bad-faith applications that cause adverse impact may draw a **warning and a fine of up to CNY 100,000** (Article 54).
@@ -39,7 +42,7 @@ Protection against squatting on dissimilar goods is extended so that it applies 
 | Now – Dec 2026 | Current Law applies: **3-month** opposition window. Finish any urgent filings/oppositions under the familiar rules. |
 | Before filing | Tighten class lists to classes with real use/intent; keep a short rationale per class. |
 | From 1 Jan 2027 | Use the **2-month** opposition window; expect faster watching decisions. |
-| Within ~5 years of each registration | Prepare and file the **use declaration** with evidence; do not let marks sit idle. |
+| Ongoing (from year 1) | **No five-year statement is required**, but keep a continuous Chinese-use evidence file (incl. online use) to defend 3-year non-use cancellation and possible CNIPA ex officio revocation. |
 | Ongoing | Maintain a continuous Chinese-use evidence file for every registration. |
 
 ## Sources (official / authoritative)
@@ -48,5 +51,6 @@ Protection against squatting on dissimilar goods is extended so that it applies 
 - CNIPA / IP News interpretation, "New Law safeguards brand development": https://www.cnipa.gov.cn/art/2026/7/3/art_3688_207057.html
 - Xinhua focus on the amendment (CNIPA repost): https://www.cnipa.gov.cn/art/2026/7/2/art_55_207044.html
 - Han Kun Law Offices, "Four core changes of the 2026 Trademark Law revision" (opposition window 3→2 months): https://www.hankunlaw.com/upload/portal/20260721/b21f0150391aa95b6f48074c16179e0c.pdf
+- Mayer Brown, "New Trademark Law in China Takes Effect on 1 January 2027" (confirms the five-year statement-of-use proposal was dropped; ex officio 3-year revocation retained): https://www.mayerbrown.com/en/insights/publications/2026/08/new-trademark-law-in-china-takes-effect-on-1-january-2027-what-businesses-need-to-know
 
 > Figures and article numbers should be re-verified against the final published implementing regulations, which CNIPA is expected to issue before the 1 January 2027 effective date.

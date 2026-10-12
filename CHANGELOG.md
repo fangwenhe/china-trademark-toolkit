@@ -2,6 +2,19 @@
 
 All notable changes to this toolkit are documented here. Dates use ISO format (YYYY-MM-DD), Asia/Shanghai.
 
+## 2026-10-12
+
+### Corrected (important)
+- **Removed the incorrect "fifth-year statement of use" claim.** Verification against the final enacted Trademark Law (full text on CNIPA/NPC, adopted 26 June 2026) and Mayer Brown's August 2026 analysis confirms the periodic post-registration statement-of-use (about the fifth year) appeared only in the **draft and was NOT adopted**. Corrected this in README FAQ #11, `guides/04` (section 2 + transition table), `guides/05`, and `datasets/official-fees-and-timeline.md`.
+- Stated the rule that actually survived: third-party 3-year non-use cancellation remains (Art. 57), CNIPA gains **ex officio** power to cancel 3-year-unused/generic marks (Art. 57), and **online use counts as genuine use** (Art. 2).
+
+### Added
+- README **FAQ #14** — "Does the 2027 Law require a five-year statement of use?" (No; explains the draft-vs-final distinction and what use evidence to keep), noting that online posts/exam videos citing the five-year rule are quoting the draft.
+- Mayer Brown (Aug 2026) added as an authoritative English source in Guide 04.
+
+### Official figures
+- Checked CNIPA / China Trademark Office notices for the past week: **no change** to fees or deadlines. Nice Classification NCL(13-2026) has applied since 1 Jan 2026 (NCL13-2027 is advance-published only); official filing fee remains **CNY 270 online / 300 paper** per class, smooth timeline 6-9 months, 15-day refusal review, 10-year term, 3-year non-use cancellation.
+
 ## 2026-10-05
 
 ### Added

@@ -28,7 +28,7 @@ The draft temporal-application provisions use the time of the underlying legal a
 
 ## Points from the revised grant-and-confirmation draft worth noting
 
-- **Use on the register.** Use by the owner, by a licensee, or otherwise not against the owner's will counts as use; a mark used with minor differences that do not change its distinctive features is still treated as use of the registered mark. Mere assignment/licensing, or merely publishing registration information and asserting rights, does **not** count as use. This matters for both the existing 3-year non-use cancellation and the new ~5-year use declaration.
+- **Use on the register.** Use by the owner, by a licensee, or otherwise not against the owner's will counts as use; a mark used with minor differences that do not change its distinctive features is still treated as use of the registered mark. Mere assignment/licensing, or merely publishing registration information and asserting rights, does **not** count as use. This matters for the 3-year non-use cancellation (which any party may file) and, from 1 Jan 2027, CNIPA's ex officio revocation of 3-year-unused or generic marks. (The draft's separate five-year statement-of-use was not adopted.)
 - **Copyright in a logo.** A copyright-registration certificate dated **before** the trademark application date can serve as preliminary evidence of ownership of the logo's copyright — a practical reason foreign brand owners register the logo's copyright in China.
 - **Bad-faith / well-known marks.** The draft preserves the factors courts weigh for bad-faith squatting on well-known marks and for marks filed by an agent, representative, or party in a pre-contractual relationship without authorisation.
 
