@@ -1,8 +1,8 @@
 # Guide 05 — Navigating the 2026 → 2027 Trademark Law transition in China
 
-*Updated 28 September 2026. The revised Trademark Law takes effect **1 January 2027**. This guide explains which rules apply to a mark whose publication, opposition, invalidation or court case straddles that date.*
+*Updated 19 October 2026. The revised Trademark Law takes effect **1 January 2027**. This guide explains which rules apply to a mark whose publication, opposition, invalidation or court case straddles that date.*
 
-> **Status note.** The transition rules below come from two **draft Supreme People's Court (SPC) interpretations** published for public comment on **14 September 2026** — the *Provisions on the Temporal Application of the Trademark Law* and the revised *Provisions on Trademark Grant-and-Confirmation Administrative Cases*. Comments close **28 October 2026**. The final text may change; treat the specifics as draft until adopted. CNIPA is separately revising the implementing regulations and the Trademark Examination and Adjudication Guidelines and upgrading the online filing system.
+> **Status note.** The transition rules below come from two **draft Supreme People's Court (SPC) interpretations** published for public comment on **14 September 2026** — the *Provisions on the Temporal Application of the Trademark Law* and the revised *Provisions on Trademark Grant-and-Confirmation Administrative Cases*. Comments close **28 October 2026**. On the administrative side, CNIPA released on **28 September 2026** its own draft **business-handling measures (ten articles)** and a revised **Trademark Examination and Adjudication Guidelines**, both open for comment until **12 November 2026** (see the dedicated section below). All secondary rules remain in draft; treat the specifics as draft until adopted. CNIPA is also revising the implementing regulations and upgrading the online filing system.
 
 ## The one date that matters most: your preliminary-approval publication date
 
@@ -32,17 +32,31 @@ The draft temporal-application provisions use the time of the underlying legal a
 - **Copyright in a logo.** A copyright-registration certificate dated **before** the trademark application date can serve as preliminary evidence of ownership of the logo's copyright — a practical reason foreign brand owners register the logo's copyright in China.
 - **Bad-faith / well-known marks.** The draft preserves the factors courts weigh for bad-faith squatting on well-known marks and for marks filed by an agent, representative, or party in a pre-contractual relationship without authorisation.
 
+## The administrative side: CNIPA's own transition measures (draft, 28 September 2026)
+
+The SPC drafts above govern **court** cases. Two weeks later, on **28 September 2026**, CNIPA released its own **administrative** implementing package for public comment, with feedback due **12 November 2026** (later than the SPC's 28 October deadline):
+
+1. **Measures for Handling Trademark Business upon Implementation of the Revised Trademark Law (draft, 施行修订后的商标法相关业务处理办法)** — a concise **ten-article** rule with two parts:
+   - **Old-vs-new Law transition** — including the cross-over case where the *application or procedural act* occurs before 1 January 2027 but CNIPA's *administrative decision* issues on or after that date; and a bridge clause under which the current implementing regulations continue to apply until new regulations are promulgated, so business is not interrupted during the gap.
+   - **Supporting rules for the amendment's new content** — notably the specific application requirements for the new **motion/multimedia ("dynamic", 动态标志) marks**, and other points the revised Law introduces but does not operationalise.
+2. **Trademark Examination and Adjudication Guidelines (draft, 商标审查审理指南)** — a larger rewrite that first refines the provisions most directly tied to the new Law: the crackdown on **bad-faith, non-use-purpose and hoarding filings** (Art. 4), distinctiveness/non-distinctive signs, stricter well-known-mark recognition, and control of marks with adverse social influence.
+
+So the full transition stack is now three layers: the **Law** (adopted 26 June 2026, effective 1 Jan 2027), the **SPC judicial interpretations** (court pipeline, comments to 28 Oct 2026), and the **CNIPA administrative measures + examination guidelines** (examination pipeline, comments to 12 Nov 2026). All of the secondary rules remain in draft; confirm the final wording before relying on any date-specific deadline.
+
 ## Action checklist for foreign applicants and counsel
 
 - If your mark (or a conflicting mark) receives **preliminary-approval publication in October–December 2026**, calendar the opposition deadline as **three months** from publication; verify the exact date on the China Trademark Network.
 - For publications **from January 2027 onward**, use the **two-month** window — the deadline is shorter, so monitoring must be faster.
 - For invalidation, identify the **registration publication date** to know which Law sets the five-year limit.
 - If you have a case already in the administrative or court pipeline, expect matters **not concluded by 1 January 2027** to be assessed under the new provisions.
-- Re-confirm everything after the SPC finalises the interpretations (the comment period ends 28 October 2026) and CNIPA issues the revised implementing regulations.
+- If you intend to file a **motion/multimedia (dynamic) mark**, wait for the CNIPA business-handling measures (draft, comments to 12 Nov 2026) to fix the concrete filing format and requirements.
+- Re-confirm everything after the SPC finalises the interpretations (the comment period ends 28 October 2026) and CNIPA finalises its business-handling measures and examination guidelines (comments to 12 November 2026) and issues the revised implementing regulations.
 
 ## Sources
 
 - SPC notice and full draft texts (14 September 2026): https://www.court.gov.cn/hudong/xiangqing/511791.html
+- CNIPA — Measures for Handling Trademark Business upon Implementation of the Revised Trademark Law (draft, 28 September 2026, comments to 12 November 2026): https://www.cnipa.gov.cn/art/2026/9/28/art_75_208337.html
+- CNIPA — Trademark Examination and Adjudication Guidelines (draft, 28 September 2026, comments to 12 November 2026): https://www.cnipa.gov.cn/art/2026/9/28/art_75_208336.html
 - Revised Trademark Law (2026), CNIPA: https://www.cnipa.gov.cn/art/2026/6/26/art_95_206942.html
 - See also **[Guide 04 — The 2026 Trademark Law amendment](04-china-trademark-law-2026-amendment.md)**.
 

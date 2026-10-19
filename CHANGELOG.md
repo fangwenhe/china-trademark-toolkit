@@ -2,6 +2,15 @@
 
 All notable changes to this toolkit are documented here. Dates use ISO format (YYYY-MM-DD), Asia/Shanghai.
 
+## 2026-10-19
+
+### Added
+- README **FAQ #15** — "I filed under the 2019 Law but my case is decided after 1 January 2027 — which rules apply?" Covers the two **CNIPA administrative** documents opened for public comment on **28 September 2026** (feedback due **12 November 2026**): the draft **business-handling measures (ten articles)** on old-vs-new Law transition, cross-over application/decision cases, dynamic (motion/multimedia) marks, and the bridging clause for the current implementing regulations; and the revised **Trademark Examination and Adjudication Guidelines** (bad-faith/non-use filings, distinctiveness, well-known-mark standards). Distinguishes them from the SPC's two draft judicial interpretations (14 September, comments to 28 October) that govern court cases.
+- `guides/05` — new section **"The administrative side: CNIPA's own transition measures"** laying out the full three-layer transition stack (Law → SPC interpretations → CNIPA measures/guidelines), with the dynamic-mark filing point and the comment deadlines; added a checklist item and the two CNIPA source URLs.
+
+### Official figures
+- Checked CNIPA / China Trademark Office notices for the past week (including the fee-payment guide page refreshed 9 October 2026): **no change** to official fees or deadlines. Online filing fee remains **CNY 270 / 300 paper** per class (first 10 items; CNY 27/30 each extra), smooth timeline 6–9 months, 15-day refusal review, 3-month opposition window (shrinking to 2 months for publications from 1 Jan 2027 under the new Law), 10-year term, 3-year non-use cancellation. NCL(13-2026) continues to apply.
+
 ## 2026-10-12
 
 ### Corrected (important)
