@@ -55,3 +55,6 @@
 - Most consumer brands need their **product class(es) + Class 35** (retail/online sales). A SaaS/app usually needs **Class 9 (downloadable) + Class 42 (software services)**.
 - Per-class filing: register the same mark separately in every class you need.
 - Source: WIPO Nice Classification headings + CNIPA 区分表. Verify exact items and the current edition before filing.
+
+### Items outside the 区分表 (custom product descriptions)
+CNIPA allows applicants to list goods/services **not** in the 区分表, but the wording must (1) follow the classification principles of the Nice edition + 区分表 in force on the filing date, and (2) be specific enough to distinguish the item from other classes/similar groups. Vague terms ("software", "beverages", "consumer goods") attract a 补正 formal correction or refusal. CNIPA publishes a **quarterly list of "acceptable item names outside the 区分表"** (latest update: **19 October 2026**) — query it inside the China Trademark Network (sbj.cnipa.gov.cn) query portal and online filing system before drafting custom items. The official fee covers only **10 items per class** (CNY 27/30 online/paper each extra item), and an over-broad list can itself be flagged as a bad-faith / non-use-intent filing under the 2026 Law.

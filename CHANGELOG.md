@@ -2,6 +2,15 @@
 
 All notable changes to this toolkit are documented here. Dates use ISO format (YYYY-MM-DD), Asia/Shanghai.
 
+## 2026-10-26
+
+### Added
+- README **FAQ #16** — "My product isn't listed in the Nice Classification / 区分表 — can I write my own goods description?" Covers the CNIPA rule that custom (outside-区分表) item names are allowed only when they follow the Nice/区分表 classification principles and are specific enough to distinguish the item from other classes/similar groups; explains the quarterly updated **"acceptable item names outside the 区分表"** list (latest notice **19 October 2026**, queryable inside the China Trademark Network portal and online filing system); warns that vague terms draw a 补正 / refusal, that the official fee covers only 10 items per class (CNY 27/30 each extra), and that an over-broad list can itself be flagged as a bad-faith / non-use-intent filing under the 2026 Law.
+- `datasets/nice-classification-45-classes-en-zh.md` — new section **"Items outside the 区分表 (custom product descriptions)"** with the two wording requirements, the quarterly-list query location, the 10-item fee rule and the bad-faith warning.
+
+### Official figures
+- Checked CNIPA / China Trademark Office notices for the past week. **No change** to official fees or deadlines: online filing fee remains **CNY 270 / 300 paper** per class (first 10 items; CNY 27/30 each extra), smooth timeline 6–9 months, 15-day refusal review, 3-month opposition window (shortening to 2 months for publications from 1 Jan 2027 under the new Law), 10-year term, 3-year non-use cancellation. NCL(13-2026) continues to apply. The only new notice this week (**19 October 2026**) is the routine quarterly update of the "acceptable item names outside the 区分表" list — it does not change fees or deadlines.
+
 ## 2026-10-19
 
 ### Added
