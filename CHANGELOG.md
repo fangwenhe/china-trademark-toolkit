@@ -2,6 +2,14 @@
 
 All notable changes to this toolkit are documented here. Dates use ISO format (YYYY-MM-DD), Asia/Shanghai.
 
+## 2026-11-02
+
+### Added
+- README **FAQ #17** — "I already filed the same mark in my home country (or another country) — can I claim Paris Convention priority in China?" Covers the **6-month Paris window** (Art. 4) and the two **Trademark Law Art. 25** mechanics that wipe priority out: (a) the priority declaration must be made **on the CNIPA application form at filing** — home country, home application number, home filing date — and **cannot be added later**; (b) an official **certified copy** of the home filing must be filed **within 3 months of the China filing date**. Explains the effect (China application back-dated to the earlier home date for overcoming later conflicting filings), what to do if the window has already closed (do not tick the box), and points readers to the free [priority-claim deadline calculator](https://huaqingip.com/china-ip-tools/priority-claim-calculator.html). This is the single most common mistake foreign applicants make, and directly answers the questions raised by a Latin-American client filing Class 32 bottled-water marks in October 2026.
+
+### Official figures
+- Checked CNIPA / China Trademark Office notices for the past week. **No change** to official fees or deadlines: online filing fee remains **CNY 270 / 300 paper** per class (first 10 items; CNY 27/30 each extra), smooth timeline 6–9 months, 15-day refusal review, 3-month opposition window (shortening to 2 months for publications from 1 Jan 2027 under the new Law), 10-year term, 3-year non-use cancellation. The two CNIPA draft administrative documents (business-handling measures + examination guidelines, opened 28 September 2026) remain in public comment until **12 November 2026**; the SPC draft judicial interpretations comment period closed 28 October 2026 — final versions not yet issued.
+
 ## 2026-10-26
 
 ### Added
